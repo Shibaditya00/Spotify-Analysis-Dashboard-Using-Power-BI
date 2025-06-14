@@ -29,7 +29,7 @@ The analysis is divided into five core segments:
 * Number of Albums Listened by Year: Identify annual listening habits and volumes.
 * Top 5 albums: Identify the most played albums based on listening frequency.
 * Latest Year vs Previous Year Analysis: Compare album consumption between the latest and the previous years, including:
-  * LY (Latest Year) vs PY (Previous Year) Trends
+	* LY (Latest Year) vs PY (Previous Year) Trends
 	* YoY (Year-over-Year) Growth Analysis
 
 
@@ -39,7 +39,7 @@ The analysis is divided into five core segments:
 * Number of Artists Listened by Year: Identify annual listening habits and volumes.
 * Top 5 artists: Identify the most played artists based on listening frequency.
 * Latest Year vs Previous Year Analysis: Compare artist engagement between the latest and the previous years, including:
-  * LY (Latest Year) vs PY (Previous Year) Trends
+	* LY (Latest Year) vs PY (Previous Year) Trends
 	* YoY (Year-over-Year) Growth Analysis
 
 ### 3. 🎶 Tracks Analysis
@@ -48,7 +48,7 @@ The analysis is divided into five core segments:
 * Number of Tracks Listened by Year: Identify annual listening habits and track diversity.
 * Top 5 tracks: Identify the most played tracks based on listening frequency.
 * Latest Year vs Previous Year Analysis: Compare track engagement between the latest and the previous years, including:
-  * LY (Latest Year) vs PY (Previous Year) Trends
+	* LY (Latest Year) vs PY (Previous Year) Trends
 	* YoY (Year-over-Year) Growth Analysis
 
 ### 4. ⏱️ Listening Pattern
